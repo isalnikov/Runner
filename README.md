@@ -1,2 +1,2 @@
 # Runner
-git runner example
+git flow runner example
